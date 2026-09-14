@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 55000,
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 25000,
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 2000,
+    "category": "Electronics"
+  },
+  {
+    "id": 4,
+    "name": "Keyboard",
+    "price": 1500,
+    "category": "Electronics"
+  },
+  {
+    "id": 5,
+    "name": "Mouse",
+    "price": 800,
+    "category": "Electronics"
+  },
+  {
+    "id": 6,
+    "name": "Monitor",
+    "price": 12000,
+    "category": "Electronics"
+  },
+  {
+    "id": 7,
+    "name": "Printer",
+    "price": 9000,
+    "category": "Electronics"
+  },
+  {
+    "id": 8,
+    "name": "Tablet",
+    "price": 18000,
+    "category": "Electronics"
+  },
+  {
+    "id": 9,
+    "name": "Smartwatch",
+    "price": 3500,
+    "category": "Electronics"
+  },
+  {
+    "id": 10,
+    "name": "Camera",
+    "price": 45000,
+    "category": "Electronics"
+  },
+  {
+    "id": 11,
+    "name": "Backpack",
+    "price": 1200,
+    "category": "Fashion"
+  },
+  {
+    "id": 12,
+    "name": "T-Shirt",
+    "price": 500,
+    "category": "Fashion"
+  },
+  {
+    "id": 13,
+    "name": "Jeans",
+    "price": 1500,
+    "category": "Fashion"
+  },
+  {
+    "id": 14,
+    "name": "Jacket",
+    "price": 2500,
+    "category": "Fashion"
+  },
+  {
+    "id": 15,
+    "name": "Shoes",
+    "price": 2200,
+    "category": "Fashion"
+  },
+  {
+    "id": 16,
+    "name": "Cap",
+    "price": 400,
+    "category": "Fashion"
+  },
+  {
+    "id": 17,
+    "name": "Sunglasses",
+    "price": 1000,
+    "category": "Fashion"
+  },
+  {
+    "id": 18,
+    "name": "Watch",
+    "price": 3000,
+    "category": "Fashion"
+  },
+  {
+    "id": 19,
+    "name": "Wallet",
+    "price": 700,
+    "category": "Fashion"
+  },
+  {
+    "id": 20,
+    "name": "Belt",
+    "price": 600,
+    "category": "Fashion"
+  },
+  {
+    "id": 21,
+    "name": "Chair",
+    "price": 3500,
+    "category": "Furniture"
+  },
+  {
+    "id": 22,
+    "name": "Table",
+    "price": 5000,
+    "category": "Furniture"
+  },
+  {
+    "id": 23,
+    "name": "Sofa",
+    "price": 25000,
+    "category": "Furniture"
+  },
+  {
+    "id": 24,
+    "name": "Bed",
+    "price": 18000,
+    "category": "Furniture"
+  },
+  {
+    "id": 25,
+    "name": "Bookshelf",
+    "price": 4500,
+    "category": "Furniture"
+  },
+  {
+    "id": 26,
+    "name": "Dining Table",
+    "price": 15000,
+    "category": "Furniture"
+  },
+  {
+    "id": 27,
+    "name": "Lamp",
+    "price": 900,
+    "category": "Furniture"
+  },
+  {
+    "id": 28,
+    "name": "Curtains",
+    "price": 1200,
+    "category": "Furniture"
+  },
+  {
+    "id": 29,
+    "name": "Carpet",
+    "price": 3000,
+    "category": "Furniture"
+  },
+  {
+    "id": 30,
+    "name": "Pillow",
+    "price": 500,
+    "category": "Furniture"
+  },
+  {
+    "id": 31,
+    "name": "Notebook",
+    "price": 100,
+    "category": "Stationery"
+  },
+  {
+    "id": 32,
+    "name": "Pen",
+    "price": 20,
+    "category": "Stationery"
+  },
+  {
+    "id": 33,
+    "name": "Pencil",
+    "price": 10,
+    "category": "Stationery"
+  },
+  {
+    "id": 34,
+    "name": "Eraser",
+    "price": 5,
+    "category": "Stationery"
+  },
+  {
+    "id": 35,
+    "name": "Marker",
+    "price": 50,
+    "category": "Stationery"
+  },
+  {
+    "id": 36,
+    "name": "Calculator",
+    "price": 300,
+    "category": "Stationery"
+  },
+  {
+    "id": 37,
+    "name": "File Folder",
+    "price": 80,
+    "category": "Stationery"
+  },
+  {
+    "id": 38,
+    "name": "Stapler",
+    "price": 120,
+    "category": "Stationery"
+  },
+  {
+    "id": 39,
+    "name": "Scissors",
+    "price": 150,
+    "category": "Stationery"
+  },
+  {
+    "id": 40,
+    "name": "Glue",
+    "price": 40,
+    "category": "Stationery"
+  },
+  {
+    "id": 41,
+    "name": "Rice",
+    "price": 800,
+    "category": "Groceries"
+  },
+  {
+    "id": 42,
+    "name": "Wheat Flour",
+    "price": 500,
+    "category": "Groceries"
+  },
+  {
+    "id": 43,
+    "name": "Sugar",
+    "price": 450,
+    "category": "Groceries"
+  },
+  {
+    "id": 44,
+    "name": "Salt",
+    "price": 30,
+    "category": "Groceries"
+  },
+  {
+    "id": 45,
+    "name": "Cooking Oil",
+    "price": 180,
+    "category": "Groceries"
+  },
+  {
+    "id": 46,
+    "name": "Tea",
+    "price": 250,
+    "category": "Groceries"
+  },
+  {
+    "id": 47,
+    "name": "Coffee",
+    "price": 350,
+    "category": "Groceries"
+  },
+  {
+    "id": 48,
+    "name": "Biscuits",
+    "price": 50,
+    "category": "Groceries"
+  },
+  {
+    "id": 49,
+    "name": "Milk",
+    "price": 60,
+    "category": "Groceries"
+  },
+  {
+    "id": 50,
+    "name": "Bread",
+    "price": 40,
+    "category": "Groceries"
+  },
+  {
+    "id": 51,
+    "name": "Football",
+    "price": 800,
+    "category": "Sports"
+  },
+  {
+    "id": 52,
+    "name": "Cricket Bat",
+    "price": 2500,
+    "category": "Sports"
+  },
+  {
+    "id": 53,
+    "name": "Cricket Ball",
+    "price": 300,
+    "category": "Sports"
+  },
+  {
+    "id": 54,
+    "name": "Tennis Racket",
+    "price": 1800,
+    "category": "Sports"
+  },
+  {
+    "id": 55,
+    "name": "Basketball",
+    "price": 1000,
+    "category": "Sports"
+  },
+  {
+    "id": 56,
+    "name": "Badminton Racket",
+    "price": 1200,
+    "category": "Sports"
+  },
+  {
+    "id": 57,
+    "name": "Yoga Mat",
+    "price": 700,
+    "category": "Sports"
+  },
+  {
+    "id": 58,
+    "name": "Skipping Rope",
+    "price": 200,
+    "category": "Sports"
+  },
+  {
+    "id": 59,
+    "name": "Dumbbells",
+    "price": 1500,
+    "category": "Sports"
+  },
+  {
+    "id": 60,
+    "name": "Sports Shoes",
+    "price": 2000,
+    "category": "Sports"
+  },
+  {
+    "id": 61,
+    "name": "Apple",
+    "price": 150,
+    "category": "Fruits"
+  },
+  {
+    "id": 62,
+    "name": "Banana",
+    "price": 60,
+    "category": "Fruits"
+  },
+  {
+    "id": 63,
+    "name": "Mango",
+    "price": 120,
+    "category": "Fruits"
+  },
+  {
+    "id": 64,
+    "name": "Orange",
+    "price": 80,
+    "category": "Fruits"
+  },
+  {
+    "id": 65,
+    "name": "Grapes",
+    "price": 100,
+    "category": "Fruits"
+  },
+  {
+    "id": 66,
+    "name": "Watermelon",
+    "price": 50,
+    "category": "Fruits"
+  },
+  {
+    "id": 67,
+    "name": "Papaya",
+    "price": 70,
+    "category": "Fruits"
+  },
+  {
+    "id": 68,
+    "name": "Pineapple",
+    "price": 90,
+    "category": "Fruits"
+  },
+  {
+    "id": 69,
+    "name": "Guava",
+    "price": 60,
+    "category": "Fruits"
+  },
+  {
+    "id": 70,
+    "name": "Strawberry",
+    "price": 200,
+    "category": "Fruits"
+  },
+  {
+    "id": 71,
+    "name": "Shampoo",
+    "price": 250,
+    "category": "Beauty"
+  },
+  {
+    "id": 72,
+    "name": "Soap",
+    "price": 50,
+    "category": "Beauty"
+  },
+  {
+    "id": 73,
+    "name": "Face Wash",
+    "price": 180,
+    "category": "Beauty"
+  },
+  {
+    "id": 74,
+    "name": "Toothpaste",
+    "price": 120,
+    "category": "Beauty"
+  },
+  {
+    "id": 75,
+    "name": "Perfume",
+    "price": 900,
+    "category": "Beauty"
+  },
+  {
+    "id": 76,
+    "name": "Lip Balm",
+    "price": 100,
+    "category": "Beauty"
+  },
+  {
+    "id": 77,
+    "name": "Hair Oil",
+    "price": 200,
+    "category": "Beauty"
+  },
+  {
+    "id": 78,
+    "name": "Face Cream",
+    "price": 300,
+    "category": "Beauty"
+  },
+  {
+    "id": 79,
+    "name": "Sunscreen",
+    "price": 450,
+    "category": "Beauty"
+  },
+  {
+    "id": 80,
+    "name": "Body Lotion",
+    "price": 250,
+    "category": "Beauty"
+  },
+  {
+    "id": 81,
+    "name": "Water Bottle",
+    "price": 500,
+    "category": "Kitchen"
+  },
+  {
+    "id": 82,
+    "name": "Frying Pan",
+    "price": 800,
+    "category": "Kitchen"
+  },
+  {
+    "id": 83,
+    "name": "Pressure Cooker",
+    "price": 2500,
+    "category": "Kitchen"
+  },
+  {
+    "id": 84,
+    "name": "Plate Set",
+    "price": 600,
+    "category": "Kitchen"
+  },
+  {
+    "id": 85,
+    "name": "Spoon Set",
+    "price": 300,
+    "category": "Kitchen"
+  },
+  {
+    "id": 86,
+    "name": "Kitchen Knife",
+    "price": 200,
+    "category": "Kitchen"
+  },
+  {
+    "id": 87,
+    "name": "Mixer Grinder",
+    "price": 3500,
+    "category": "Kitchen"
+  },
+  {
+    "id": 88,
+    "name": "Toaster",
+    "price": 1800,
+    "category": "Kitchen"
+  },
+  {
+    "id": 89,
+    "name": "Microwave Oven",
+    "price": 9000,
+    "category": "Kitchen"
+  },
+  {
+    "id": 90,
+    "name": "Electric Kettle",
+    "price": 1200,
+    "category": "Kitchen"
+  },
+  {
+    "id": 91,
+    "name": "Toy Car",
+    "price": 400,
+    "category": "Toys"
+  },
+  {
+    "id": 92,
+    "name": "Teddy Bear",
+    "price": 600,
+    "category": "Toys"
+  },
+  {
+    "id": 93,
+    "name": "Puzzle",
+    "price": 300,
+    "category": "Toys"
+  },
+  {
+    "id": 94,
+    "name": "Lego Set",
+    "price": 1200,
+    "category": "Toys"
+  },
+  {
+    "id": 95,
+    "name": "Remote Car",
+    "price": 1500,
+    "category": "Toys"
+  },
+  {
+    "id": 96,
+    "name": "Doll",
+    "price": 500,
+    "category": "Toys"
+  },
+  {
+    "id": 97,
+    "name": "Board Game",
+    "price": 800,
+    "category": "Toys"
+  },
+  {
+    "id": 98,
+    "name": "Toy Train",
+    "price": 900,
+    "category": "Toys"
+  },
+  {
+    "id": 99,
+    "name": "Building Blocks",
+    "price": 700,
+    "category": "Toys"
+  },
+  {
+    "id": 100,
+    "name": "Coloring Book",
+    "price": 150,
+    "category": "Toys"
+  }
+]
