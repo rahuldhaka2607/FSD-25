@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Campus Help Desk</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <header>
+            <h1>Campus Help Desk</h1>
+            <p>Report and manage campus requests</p>
+        </header>
+
+        <main>
+            <section class="form-section">
+                <form id="requestForm" class="apple-card">
+                    <h2>Submit a Request</h2>
+                    <input type="text" id="studentName" placeholder="Student Name" required>
+                    <input type="email" id="email" placeholder="Email Address" required>
+                    
+                    <select id="category" required>
+                        <option value="" disabled selected>Select Category</option>
+                        <option value="Hostel">Hostel</option>
+                        <option value="Classroom">Classroom</option>
+                        <option value="Library">Library</option>
+                        <option value="Wi-Fi">Wi-Fi / Internet</option>
+                        <option value="Other">Other</option>
+                    </select>
+
+                    <select id="priority" required>
+                        <option value="" disabled selected>Select Priority</option>
+                        <option value="Low">Low</option>
+                        <option value="Medium">Medium</option>
+                        <option value="High">High</option>
+                    </select>
+
+                    <textarea id="description" rows="3" placeholder="Describe the problem..." required></textarea>
+
+                    <div id="formMessage" class="message hidden"></div>
+
+                    <div class="actions">
+                        <button type="submit" id="submitBtn" class="btn primary">Submit</button>
+                        <button type="button" id="cancelBtn" class="btn secondary hidden">Cancel</button>
+                    </div>
+                </form>
+            </section>
+
+            <section class="list-section">
+                <h2>Recent Requests</h2>
+                <div id="requestsList" class="requests-grid">
+                    <!-- Cards will appear here -->
+                </div>
+            </section>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

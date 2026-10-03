@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "studentName": "rahul dhaka",
+    "email": "rahuldhaka2607@gmail.com",
+    "category": "Wi-Fi",
+    "description": "speed low",
+    "priority": "Low",
+    "status": "Pending",
+    "createdAt": "2026-09-28T04:57:35.716Z"
+  }
+]
